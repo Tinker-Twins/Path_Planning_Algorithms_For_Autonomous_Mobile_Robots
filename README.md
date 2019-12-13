@@ -1,5 +1,7 @@
 # Path Planning Algorithms For Autonomous Mobile Robots
-![Path Planning](Path_Planning.png)
+<p align="center">
+  <img width="460" height="300" src="Path_Planning.png">
+</p>
 
 This repository contains path planning algorithms for autonomous mobile robots.
 
