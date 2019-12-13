@@ -1,4 +1,6 @@
 # Path Planning Algorithms For Autonomous Mobile Robots
+![Path Planning](Path_Planning.png)
+
 This repository contains path planning algorithms for autonomous mobile robots.
 
 The concepts of graph theory and graph based search techniques are implemented as MATLAB programs for planning optimal path from the source node to the goal node.
